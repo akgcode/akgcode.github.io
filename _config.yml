@@ -23,7 +23,8 @@ timezone:
 
 title: Avdhesh Kumar                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Let's have a conversation about robotics, autonomous systems, entrepreneurship or finance. 
+   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Let's have a conversation about robotics, autonomous systems, entrepreneurship or finance. 

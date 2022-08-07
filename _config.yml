@@ -21,18 +21,18 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Avdhesh Kumar                          # the main title
 
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Let's have a conversation about robotics, autonomous systems, entrepreneurship or finance. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://akgcode.github.io'
 
 github:
-  username: akg-codes             # change to your github username
+  username: akgcode             # change to your github username
 
 twitter:
   username: akg_tweet            # change to your twitter username
@@ -44,8 +44,8 @@ social:
   email: avdhesh.kumar1221@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/akg-codes       # change to your github homepage
+    - https://twitter.com/akg_tweet      # change to your twitter homepage
+    - https://github.com/akgcode      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/avdhesh-akg/
@@ -73,17 +73,17 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:  dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'assts/dp.img'
+img_cdn: 'assets/dp.jpg'
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 'assets/dp.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
